@@ -1,0 +1,17 @@
+{
+  "products": [
+    { "id": 1, "name": "Apel Fuji", "icon": "🍎", "price": 35000, "stock": 50, "unit": "kg" },
+    { "id": 2, "name": "Jeruk Mandarin", "icon": "🍊", "price": 28000, "stock": 75, "unit": "kg" },
+    { "id": 3, "name": "Anggur Merah", "icon": "🍇", "price": 65000, "stock": 30, "unit": "kg" },
+    { "id": 4, "name": "Strawberry", "icon": "🍓", "price": 45000, "stock": 25, "unit": "pcs" },
+    { "id": 5, "name": "Pisang Cavendish", "icon": "🍌", "price": 18000, "stock": 100, "unit": "kg" },
+    { "id": 6, "name": "Mangga Harum Manis", "icon": "🥭", "price": 32000, "stock": 40, "unit": "kg" },
+    { "id": 7, "name": "Semangka Merah", "icon": "🍉", "price": 15000, "stock": 20, "unit": "buah" },
+    { "id": 8, "name": "Nanas Madu", "icon": "🍍", "price": 22000, "stock": 35, "unit": "buah" },
+    { "id": 9, "name": "Kiwi Import", "icon": "🥝", "price": 55000, "stock": 15, "unit": "pcs" },
+    { "id": 10, "name": "Lemon California", "icon": "🍋", "price": 38000, "stock": 45, "unit": "kg" },
+    { "id": 11, "name": "Cherry Import", "icon": "🍒", "price": 120000, "stock": 10, "unit": "pcs" },
+    { "id": 12, "name": "Melon Hijau", "icon": "🍈", "price": 25000, "stock": 30, "unit": "buah" }
+  ],
+  "waNumber": "6285161063781"
+}
